@@ -1,0 +1,127 @@
+﻿Entry questionnaire
+https://forms.gle/YYmCPXxJ38p3qHgv5
+
+Please answer according to what really reflects your experience rather than what you think your experience should be. Please treat each item separately from every other item.
+The survey takes around 5 minutes to complete 
+Please create your own nickname. PLEASE make sure you remember this in 28 days as we do not keep this information for anonymization purposes. This identifier will ONLY be used for matching the feedback of post-intervention questionnaires. 
+
+D1 Are you a Software Engineering (SE) student or working in the SE field ? *
+SE students, currently involved in one SE project or more.
+SE students, NOT currently involved in any SE project.
+Working in SE
+
+D2 How many years have you participated in SE project development/worked in SE? (You can put 0 if you are a SE student.) *
+
+D3 What roles do you play in SE project development/work in SE ? (You can put NA if this doesn't apply to you.) *
+
+D4 What is your current residence country/region? *
+
+D5 Have you practiced mindful relaxation continuously and usually in the past 14 days? ( If YES, you do not meet our sampling criteria -> we still appreciate your interest) *
+Yes No I don’t know what ‘mindful relaxation’ is.
+
+Q1In terms of stress level, on a scale from 1-5, using only integers, how would you rate your stress arising from your work or any events directly related to your work on a working day? *
+[1.No stress at all] - [5.Burn-out]
+
+Q2 In terms of focus level, on a scale from 1-5, using only integers, how much do you focus on your current work, with mind at present? *
+[1. Always absent-minded] - [5. Only the current task in mind]
+
+Q3 When you receive newly assigned tasks, how often do you feel fully occupied? *
+Never 1 -  6 Always
+
+Q4 How often do you feel you are competent and capable when handling tasks? *
+Never 1 -  6 Always
+
+Q5 How often do you feel it is difficult to stay focused on what’s happening in the present? *
+Never 1 -  6 Always
+
+Q6 How often do you feel stressed out when you encounter unknown errors? *
+Never 1 -  6 Always
+
+Q7 How often do you not concentrate enough on your work? *
+Never 1 -  6 Always
+
+Q8 How often do you find yourself not working as carefully as you should? *
+Never 1 -  6 Always
+
+Q9 How often do you experience some emotion and not be conscious of it until some time later? *
+Never 1 -  6 Always
+
+Q10 How often do you get so focused on the goaI you want to achieve that Iose touch with what you are doing right now to get there? *
+Never 1 -  6 Always
+
+Q11 Using the same 0-to-10 scale, how would you rate your overall job performance on the days you worked during the past 4 weeks (28 days)? *
+Very bad 0 - 10 Excellent
+
+Q12 When receiving newly assigned tasks, I will handle it as smoothly as I can.*
+Agree 1 -  6  Disagree
+
+Q13 When formulating commit messages, I can remember exactly what I have modified.*
+Agree 1 -  6  Disagree
+
+Q14 When taking a break, my mind is still always full of technical issues.*
+Agree 1 -  6  Disagree
+ 
+Q15 How often do you not work at times when you are supposed to be working?*
+Agree 1 -  6  Disagree
+
+Q16 How do you find communicating  with teammates when collaborating?
+Difficult 1 - 6 Easy
+
+
+
+Exit Questionnaire 
+https://forms.gle/VYYyFgmAqd4vQwAm6
+
+D1 Have you practiced mindful relaxation continuously and usually in the past 4 weeks? ( If NO, you do not meet our sampling criteria -> we still appreciate your effort)
+
+Q1 In terms of stress level, on a scale from 1-5, using only integers, how would you rate your stress arising from your work or any events directly related to your work on a working day? *
+[1.No stress at all] - [5.Burn-out]
+
+Q2 In terms of focus level, on a scale from 1-5, using only integers, how much do you focus on your current work, with mind at present? *
+[1. Always absent-minded] - [5. Only the current task in mind]
+
+Q3 When you receive newly assigned tasks, how often do you feel fully occupied? *
+Never 1 -  6 Always
+
+Q4 How often do you feel you are competent and capable when handling tasks? *
+Never 1 -  6 Always
+
+Q5 How often do you feel it is difficult to stay focused on what’s happening in the present? *
+Never 1 -  6 Always
+
+Q6 How often do you feel stressed out when you encounter unknown errors? *
+Never 1 -  6 Always
+
+Q7 How often do you not concentrate enough on your work? *
+Never 1 -  6 Always
+
+Q8 How often do you find yourself not working as carefully as you should? *
+Never 1 -  6 Always
+
+Q9 How often do you experience some emotion and not be conscious of it until some time later? *
+Never 1 -  6 Always
+
+Q10 How often do you get so focused on the goaI you want to achieve that Iose touch with what you are doing right now to get there? *
+Never 1 -  6 Always
+
+Q11 Using the same 0-to-10 scale, how would you rate your overall job performance on the days you worked during the past 4 weeks (28 days)? *
+Very bad 0 - 10 Excellent
+
+Q12 How did you state of mind change over the past 28 days? 
+
+Q13 When received newly assigned tasks, I will handle it as smoothly as I can.
+Agree 1 -  6  Disagree
+
+Q14 When formulating commit messages, I can remember exactly what I have modified.*
+Agree 1 -  6  Disagree
+
+Q15 When taking a break, my mind is still always full of technical issues.*
+Agree 1 -  6  Disagree
+ 
+Q16 How often do you do no work at times when you are supposed to be working?*
+Agree 1 -  6  Disagree
+
+Q17 How do you find communicating  with teammates when collaborating?
+Difficult 1 - 6 Easy
+
+Q18 In your daily work, how did you do things differently over the 28 days mindful relaxation?

@@ -1,0 +1,36 @@
+﻿Thank you very much for your effort in the past 28 days. We really appreciate it! Now, we would like to ask you some questions about your experience. The interview will be transcribed simultaneously and we will record your voice. Immediately after tidying up the transcript and when you have agreed upon the transcript, we will delete the recording permanently.
+
+Before we start, do you have any questions?
+
+Q1[Open-ended]  RQ1
+First question, how did your daily work experience change, for example implementing the requirements, pull request accepted, conceptual modeling, or the grasp of the whole project?  
+
+Q2[Open-ended]  RQ1.1
+After taking mindful relaxation, what changes do you feel in terms of your behavior in your own work? 
+
+Q3 [Open-ended] RQ1.1
+How did the mindful principles help you achieve such changes?/ What mindful principles helped you ameliorate/improve your work experience?
+
+Q4[Open-ended]  RQ1.2
+Did you work as a team on a school or industrial project, with other people in the past 28 days?
+[To be asked ONLY when (s)he is working on a project or working with a team.] After taking mindful relaxation, what changes do you feel in terms of your behavior in teamwork?]
+
+Q5[Open-ended] RQ2
+What major mental benefits have you taken away from the mindful relaxation in the past month?
+
+Q6[Open-ended] RQ2.1
+After taking mindful relaxation, what changes in the way you view yourself? When I say the way you view yourself, it may include genuine self-knowledge or varying degrees of distortion
+
+Q7[Open-ended] RQ2.2
+After taking mindful relaxation, how did your ability to focus change?
+
+Q8 [Open-ended] RQ1 RQ2
+What are your take-aways, or learnings from mindful relaxation? 
+
+Q9 [Open-ended] RQ1 RQ2
+Do you think you will continue practicing mindful relaxation regularly in the future? Why or why not?
+
+Q10 [Open-ended] RQ1 RQ2
+What other changes by mindful relaxation do you think of? 
+
+Thank you. That is the end of the interview. We wish you every success in your future endeavors in your studies/work.
