@@ -1,0 +1,156 @@
+﻿Interview 1
+Interviewee Nickname: Nine
+SE students, currently involved in one SE project or more.
+Interviewer: Annan Lao
+Time: 1200 CET 26/April/2022 - 1222 CET 26/April/2022
+Venue: zoom
+
+
+Thank you very much for your effort in the past 28 days. We really appreciate it now. We would like to ask you some questions about your experience or opinion. The interview will be transcribed simultaneously and we do not record your voice.
+
+
+1. First question, how did your daily work experience change, for example implementing the requirement pull request accepted conceptual modeling or the grasp of the whole project
+
+
+I'm not so sure about what conceptual modeling means can you give me some example
+
+
+For example, drawing up the UML diagram, using creativity techniques (Interrupted)…
+
+
+Well I think I became better in communication because the lesson I acquired from the mindful relaxation is that I can be more capable of perceiving um the idea regardless of who it is from. I try to listen and understand others' ideas more carefully with more attention to what they say so overall I became better in communicating in a project that I'm currently undertaking, a software engineering project.
+
+
+2. What principles do you think are important in mindfulness? It can be individual or collective[a][b]
+
+
+Well I think I’ve gained attention to the details…  To be able to see the difference is very important, because we want to.. Because there are different sides of the stories, and we are to decide the whole picture of the process from many sides, and we must be vigilant not to ignore the small subtle difference. So I think the detail orientation is a very important lesson I acquired from mindful relaxation
+
+
+Another difference that I feel, is the feeling of being present, that I have one thing to do at this moment, that I must focus on the very thing, that I need to do at this moment that I have no other concern before or after.
+
+
+3. Recalling agile manifesto individuals and interactions over process and tools working software over comprehensive documentation customer collaboration over contract negotiation and responding to change over following a plan in your opinion how can the principles of above mindfulness back to you what you mentioned be contributed to agile manifesto (Canceled upon co-assessor’s opinion and change of sub RQs)[c]
+
+
+Well I think um well it is a tough question maybe um individuals and interactions over process and tools because this is very relevant to one's ability to reason and two have the empathy for the others and one cannot have empathy if he has so many things going on in his mind when he is doing when he is communicating with his customer
+
+
+Maybe respond to change over following a plan as well
+
+
+How? Can you go into detail?
+
+
+So, for example, you need to be always capable of adapting to the changes. I mean not always but it's quite important so the changes are everywhere every day you must adapt to it, and the resilience I acquired from the mindful relaxation is somehow laying a good foundation for me to behold this agile manifesto.
+
+
+4. After taking mine for relaxation, what changes do you feel in terms of your behavior in teamwork?
+
+
+Well, I feel I was a better listener as mentioned above, and I feel the friendship that I have with my close close friends are deeper, because I am more able to spin 2 so just to focus on the things we do together, to hang out together. When we are spending time together, I have no other things in mind and it makes me grateful for the daily events and everything, good or bad, in life. And this somehow also positively affects my work performance or when I work on my project in studies it also improves.
+
+
+And you think that helped your teamwork in a way?
+Yes, a good spirit is helpful.
+
+
+5. What major mental benefits have you taken away from mindful relaxation in the past months?
+
+
+Mental benefits… Right, I think, like what I said, it's better, like I'm more grateful to the things happening in life, and I feel that I can appreciate the small things in life, maybe the sunshine, the weather, the tea  in front of me… So when I am not at work, I can feel at ease. I don't need to worry about anything about work and it actually helped me relax and improve the quality of my free time.
+
+
+6. After taking mindful relaxation, what changes in the way you view yourself?
+Honestly, I feel I'm more like looking into myself more carefully and more holistically, so I try not to be so harsh on myself, because I only got great gratitude for this kind of attitude in my mind. I try to have this kind of positive thinking though I do feel that I'm, or should I say, I feel I'm more… Umm… Capable. And I appreciate myself, maybe a little bit more than before, towards the small effort for the small joy in daily life.
+
+
+7. After taking mindful relaxation how did your ability to focus change?
+Well, I think focus. Focus, was, has always been the core of the mindful relaxation. The whole point about it is to increase your focus, right? So my focus indeed sharpened, and I feel that my focus band is longer and when I focus on something I can just.. you know…, very carefully intensively focus on what I've been doing
+
+
+8. What are your takeaways or learnings from mindful relaxation?
+Well I think like what I said, be grateful, be thankful, focus at the moment. You have only one thing, at a time and this is it. You know, as a software engineering student, I have very busy daily life and piles of work, and my screen time is really a lot so it's really a rare opportunity to have such a self led opportunity to focus on myself, to have some time to enjoy solitude.
+
+
+9. Do you think you will continue practicing mindful relaxation regularly in the future? Why or why not?
+Yes, I think I will, and the way that I've been doing in the past month… Because I really I think it takes a long time to really establish the benefits but I already see some some part of it's already working already… So I won't give up and I will keep trying it even when I work in work in the industry I think I still will do.
+
+
+10. What other changes by the mindful relaxation do you think of do you have anything more to add
+I think that's pretty much it, thanks.
+
+
+Thank you very much for your time and effort. We wish you a pleasant life
+
+//
+
+Piloted Interview 2
+Interviewee Nickname: kebab
+SE students, currently involved in one SE project or more.
+Interviewer: Peiran Wei
+Time: 0930 CET 25/April/2022 - 0955 CET 25/April/2022
+Venue: zoom
+
+
+Thank you very much for your effort in the past 28 days. We really appreciate it now. We would like to ask you some questions about your experience or opinion. The interview will be transcribed simultaneously and we do not record your voice.
+
+
+1. How did your daily work experience change, for example, implementing the requirement, pull request accepted, conceptual modeling or the grasp of the whole project？ 
+
+
+Well, to be honest, I didn’t feel much better after. I took the lesson of mindful relaxation, but there is actually something becoming better during our development of a specific project, so for example, when we were formulating the requirements for the software itself, or at least me my brain became clearer, and I’m trying to come up with some draft ideas… The originality becomes more meaningful… I will say, and that’s the most obvious change I do have after the intervention.
+
+
+2. What principles do you think are important in mindfulness? It can be individual or collective.[d][e]
+
+
+Well, OK, I have to say I can’t recall what the principles in mindfulness are the weed talk to you, though we are taking this interview right after my intervention with in terms of OK in terms of individual work or collective I did learn how to focus at the moment in terms of individual and when I worked with my teammates at least I had a feeling that all my partners gather their minds very clear and Super active in the group discussion and all of us in terms of teams we all like we were all focused on the exact task or the issues were talking wait for that moment and no one else will jump out the question itself and take something out of the track.
+
+
+3. Recalling agile manifesto individuals and interactions over process and tools working software over comprehensive documentation customer collaboration over contract negotiation and responding to change over following a plan in your opinion how can the principles of above mindfulness back to you what you mentioned be contributed to agile manifesto (Canceled upon co-assessor’s opinion and change of sub RQs)[f]
+
+
+Well considering I can’t recall what do you want majority of the principles of minder for relaxation hour so it’s a bit hard for me to understand and to answer your questions that relates to the agile development process we all like focused on the exact tasks we have been assigned though the other team members and I may have other potential tasks to do an individual level but during the group discussion and the teams project developments everyone was was focusing on exactly one thing and work together on it.
+
+
+4. After taking mine for relaxation, what changes do you feel in terms of your behavior in teamwork?
+
+
+Personally, I felt much much much better than before I took the mindful relaxation.vWhen I worked within the team, especially in over teams discussion. I became a better listener and my mind became more, how to say, active and more creative, besides the ideas and the questions are becoming more meaningful and especially the originality of the ideas that’s our team produced or came off with were becoming more meaningful. That should about it. Oh wait one more thing, personally, I did have a better understanding about the mission that assigned to me.
+
+
+5. What major mental benefits have you taken away from mindful relaxation in the past months?
+
+
+Okay, mental benefits…  I think this is just like what I said to you in the previous questions. I did learn how to focus at this thing I’m working at at a specific moment whatever the staff is. When I write these individual tasks or provide daily stuff I would always enjoy doing that thing in that moment as for myself and compared with my mental change before I took the intervention. To be a bit more general, it just feels like personally I’ve become my, my mind becomes more fresh and my entire body feels refreshed, especially 10 minutes right away after the daily mindful practices.
+
+
+6. After taking mindful relaxation, what changes in the way you view yourself?
+
+
+In terms of the way I’ve viewed myself after the new version, I have to say I’ve become more careful when I’m doing things. I would consider more outside the sink it’s self, for example, if I’m doing a assigned the task in the group project I will consider more about what my changes or after it or modification of this part of cold might have any any impact or effects to the other parts of the code itself. And besides, I would also look at the… how to say, the entire project carefully to the most extent and the same when I’m doing something specifically.
+
+
+7. After taking mindful relaxation, how did your ability to focus change?
+
+
+My abilities to focus on myself or focus on the tasks I’m doing for a specific moment have been enhanced. It’s been enhanced to a large extent after I finish my intervention of mindful relaxation and to be honest, I think that is also the core learnings or main takeaway after my intervention.
+
+
+8. What are your takeaways or learnings from mindful relaxation?
+
+
+Wow, I think the core concepts or let’s say, the main take away for myself after the mindful relaxation is learned how to focus on the things I’m doing at a specific moment, that, it’s quiet and super super important for a… for a engineering students or somebody working in this community. Because our job is a job that needs patience, a lot of patience and sometimes some bugs appeared may lead to an anxious or angry and some bad emotions, bad mood, so some mindful relaxation as your daily practices in your… whatever in your daily work or your daily life or even your spare time will help you a lot. I did feel that in terms of how to relax yourself and focusing on the thing that you’re doing on that moment.
+
+
+9. Do you think you will continue practicing mindful relaxation regularly in the future why or why not?
+
+
+From my own opinion, I would say yes, but it really depends on my workload if my schedule is fully booked. I may don’t have that much of time left for practices or something like that to relax myself, but once I got some time for it, I would definitely take some mindful relaxation or practices to relax myself. It’s really helpful for either body’s health or mind. It’s did release the stress in your brain, yes that’s pretty much about it.
+
+
+10. What other changes by the mindful relaxation do you think of? Do you have anything more to add?
+
+
+I don’t think I got any other staff to add to this mindful relaxation. The intervention for myself in the past, nearly one months, the experience in the past month is really helped me to learn how to relax myself in the way of mindful practices and I do thank you for the opportunity for me to learn something new and that’s about it. I would say in thank you, thank you very much.
