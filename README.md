@@ -11,3 +11,16 @@
 # Clone repository
 git clone git@github.com:Peiran-Wei/dit837_group_30_repo.git
 ```
+```
+# Open source files
+- open `.txt` file via text editor
+- open `.csv` file via text editor
+```
+
+## Sources
+- [data]()
+- [docs]()
+
+## Description
+- In `data/`, you can find raw data collected from both entry and exit survey stored in `'.csv'` extension, the best way to check the source is by opening a text editor. Besides, you can also find the transcriptions of all the interviews that have been taken. 
+- In `docs/`, you can find `invitation`,`informed consent`, `entry&exit survey questions` and `semi structured interview questions` stored in `'.txt'` format. 
